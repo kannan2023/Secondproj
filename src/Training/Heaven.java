@@ -7,6 +7,7 @@ public class Heaven {
 		System.out.println("checking the heaven");
 		System.out.println("Entering new world");
 		System.out.println("Entering new world again");
+		System.out.println("Exiting new world ");
 
 }
 	
